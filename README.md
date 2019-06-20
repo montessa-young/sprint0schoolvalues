@@ -56,7 +56,7 @@ We hope that you'll be a part of the Lambda School community far into the future
 ## Introduction to Key Staff
 *Add photographs and short biographies for staff that will be working with this cohort.*
 
-## Who to ask for help at Lambda School
+## Who to Ask for Help at Lambda School
 Who you ask for help depends on what type of question you have. A great starting point for most questions is your project manager. If you have an instructional question posting in your course help channel in Slack would be appropriate. If you have a non-instructional question using the /frontdesk command in Slack to submit a question to student services would get you an answer. 
 
 ## How to Ask for Help at Lambda School
